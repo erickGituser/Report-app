@@ -1,0 +1,3 @@
+Nombre: MAria , Sexo: f, Promedio: 45.0
+Nombre: Marcos, Sexo: m, Promedio: 78.0
+Nombre: Erick, Sexo: m, Promedio: 89.0
